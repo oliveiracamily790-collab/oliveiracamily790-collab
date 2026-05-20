@@ -13,11 +13,22 @@
 
 ### 🌱 Sobre mim
 
-- 💻 Estudante de Desenvolvimento na **Gazin - DCC**
+- 🎓 Estudante no **Colégio Cívico-Militar de Douradina - PR**
+- 💼 Trabalho no **Gazin - DCC** (Departamento de Ciência da Computação)
 - 📍 Douradina, Paraná — Brasil
 - 🎯 Atualmente explorando: **HTML** e **CSS**
 - 🚀 Próximos passos: **JavaScript** e o mundo do front-end
 - ✨ Acredito que cada commit é um pequeno passo rumo a algo grande
+
+---
+
+### 🌎 Concorrendo ao Programa Ganhando o Mundo!
+
+> 🛫 Estou concorrendo a uma vaga no **[Ganhando o Mundo](https://www.ganhandoomundo.pr.gov.br/)**, o **maior programa público de intercâmbio estudantil da América Latina**, oferecido pelo Governo do Paraná.  
+>  
+> Uma oportunidade de estudar por um semestre em países de língua inglesa como 🇦🇺 Austrália, 🇨🇦 Canadá, 🇮🇪 Irlanda, 🇳🇿 Nova Zelândia ou 🇬🇧 Reino Unido.  
+>  
+> ✨ *Sonhar grande também é um exercício diário.* ✨
 
 ---
 
