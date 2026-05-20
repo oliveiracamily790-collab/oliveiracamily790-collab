@@ -14,7 +14,7 @@
 ### 🌱 Sobre mim
 
 - 🎓 Estudante no **Colégio Cívico-Militar de Douradina - PR**
-- 💼 Trabalho no **Gazin - DCC** (Departamento de Ciência da Computação)
+- 💼 Trabalho no **Gazin - DCC** (Departamento de Crédito e Cobrança)
 - 📍 Douradina, Paraná — Brasil
 - 🎯 Atualmente explorando: **HTML** e **CSS**
 - 🚀 Próximos passos: **JavaScript** e o mundo do front-end
